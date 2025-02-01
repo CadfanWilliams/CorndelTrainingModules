@@ -1,0 +1,1 @@
+This is a folder to show off the training modules I have completed as part of the corndel training course. Some modules have been missed as they are purely written work and dont contain creting a repo
